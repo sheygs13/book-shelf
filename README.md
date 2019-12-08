@@ -1,2 +1,2 @@
-# book_store
+# Book-store
 A simple book store app
